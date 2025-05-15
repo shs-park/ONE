@@ -1,3 +1,9 @@
+circle-interpreter (1.30.0~202505151728~jammy) jammy; urgency=medium
+
+  * Test Release Triggering by nnfw
+
+ -- On-device AI developers <nnfw@samsung.com>  Thu, 15 May 2025 08:39:27 +0000
+
 circle-interpreter (1.30.0~20250424.2227) focal; urgency=medium
 
   * Daily build with timestamp.
